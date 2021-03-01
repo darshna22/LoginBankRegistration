@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login Registration</string>
+
+    <string name="user_name">S.</string>
+    <string name="title">First of the few steps to set\nyou up with a Bank Account</string>
+    <string name="pan_hint">PAN NUMBER</string>
+    <string name="birthdate">BirthDate</string>
+    <string name="dd">DD</string>
+    <string name="mm">MM</string>
+    <string name="yyyy">YYYY</string>
+    <string name="des"><![CDATA[Proving PAN & Date of Birth helps us find and\nfetch your KYC from a central registry by the\nGovernment of India. Learn more.]]></string>
+    <string name="next">Next</string>
+    <string name="dont_have_pan">I don’t have a PAN</string>
+    <string name="fill_detail">Please fill details</string>
+    <string name="valid_dob">Please enter valid Birth date</string>
+    <string name="valid_pan">Please enter valid pan number</string>
+    <string name="success_msg">Details submitted successfully</string>
+</resources>
